@@ -1,0 +1,4 @@
+*.o
+opirc
+.vscode/
+config.h

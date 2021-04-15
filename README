@@ -1,0 +1,18 @@
+#opirc - open irc client
+=======================
+Installation
+------------
+Edit config.mk to match your local setup. opirc is installed into
+/usr/local by default.
+
+Afterwards enter the following command to build and install sic 
+(if necessary as root):
+```
+$ git clone link
+$ make clean install
+```
+
+
+Running opirc
+-----------
+Simply invoke the 'opirc' command with the required arguments.
